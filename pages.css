@@ -1,0 +1,14 @@
+fieldset {
+  border-radius: 0.5em;
+  border: 0.1em solid #ccc;
+  box-shadow: 0.08em 0.05em 0.08em rgba(245, 245, 245, 0.623);
+  background-color: rgba(255, 234, 224, 0.623);
+}
+legend {
+  font-size: 17px;
+  font-family: cursive;
+  font-weight: 700;
+}
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}

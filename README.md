@@ -1,5 +1,5 @@
 # ResumeWeb
-Built this website to practice web development and to be used as a resume 
+Built this website to practice web development and to be used as a resume / CV
 
 You can check it out on this link:
 
